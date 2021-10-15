@@ -1,0 +1,85 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "name": "Firstbot",
+    "description": "",
+    "id": "A79tBe"
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "3WgaWp",
+        "name": "menu"
+      },
+      "intent": "menu",
+      "actions": [
+        {
+          "$kind": "Microsoft.BeginDialog",
+          "$designer": {
+            "id": "ITIH1U"
+          },
+          "activityProcessed": true,
+          "dialog": "Menu"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "QnKxl2",
+        "name": "Name"
+      },
+      "intent": "Name",
+      "actions": [
+        {
+          "$kind": "Microsoft.BeginDialog",
+          "$designer": {
+            "id": "NDKa1u"
+          },
+          "activityProcessed": true,
+          "dialog": "Name"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "gaZ3Ct",
+        "name": "Greeting"
+      },
+      "intent": "Greeting",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "AKsyov"
+          },
+          "activity": "${SendActivity_AKsyov()}"
+        }
+      ],
+      "condition": true
+    }
+  ],
+  "generator": "Firstbot.lg",
+  "id": "Firstbot",
+  "recognizer": {
+    "$kind": "Microsoft.RegexRecognizer",
+    "intents": [
+      {
+        "intent": "Name",
+        "pattern": "Name"
+      },
+      {
+        "intent": "menu",
+        "pattern": "menu"
+      },
+      {
+        "intent": "Greeting",
+        "pattern": ""
+      }
+    ]
+  }
+}

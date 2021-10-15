@@ -1,0 +1,14 @@
+[import](common.lg)
+
+# SendActivity_5Z3c8k()
+[Activity
+    Text = ${SendActivity_5Z3c8k_text()}
+]
+
+# SendActivity_5Z3c8k_text()
+- ```Today's menu
+ \- Pizza
+ \- Burger and fries
+ \- Chicken sandwich```
+# TemplateName()
+-TemplateValue

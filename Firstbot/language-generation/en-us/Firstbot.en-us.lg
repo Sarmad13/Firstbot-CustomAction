@@ -1,0 +1,9 @@
+[import](common.lg)
+
+# SendActivity_AKsyov()
+[Activity
+    Text = ${SendActivity_AKsyov_text()}
+]
+
+# SendActivity_AKsyov_text()
+- him therer

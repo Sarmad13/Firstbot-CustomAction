@@ -1,0 +1,45 @@
+[import](common.lg)
+
+# SendActivity_creA8R()
+[Activity
+    Text = ${SendActivity_creA8R_text()}
+]
+
+# SendActivity_creA8R_text()
+- Sarmad
+- Sumair
+# SendActivity_Ikatol()
+[Activity
+    Text = ${SendActivity_Ikatol_text()}
+]
+
+# SendActivity_Ikatol_text()
+- The result is: : ${add(user.age, user.age1)}
+# NumberInput_Prompt_0TrrhO()
+[Activity
+    Text = ${NumberInput_Prompt_0TrrhO_text()}
+]
+
+# NumberInput_Prompt_0TrrhO_text()
+- Please enter 1st number
+# NumberInput_Prompt_TQUzcb()
+[Activity
+    Text = ${NumberInput_Prompt_TQUzcb_text()}
+]
+
+# NumberInput_Prompt_TQUzcb_text()
+- Please enter 2nd number
+# LogAction_Text_n6YxVv()
+[Activity
+    Text = ${LogAction_Text_n6YxVv_text()}
+]
+
+# LogAction_Text_n6YxVv_text()
+- enter 1st number: 
+# LogAction_Text_YCvOpt()
+[Activity
+    Text = ${LogAction_Text_YCvOpt_text()}
+]
+
+# LogAction_Text_YCvOpt_text()
+- $number1
