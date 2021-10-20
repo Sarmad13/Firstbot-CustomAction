@@ -1,7 +1,14 @@
+using Firstbot.Adapter;
+using Firstbot.Bots;
+using Firstbot.Middleware;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.StaticFiles;
+using Microsoft.Bot.Builder;
+using Microsoft.Bot.Builder.BotFramework;
 using Microsoft.Bot.Builder.Dialogs.Adaptive.Runtime.Extensions;
+using Microsoft.Bot.Builder.Integration;
+using Microsoft.Bot.Builder.Integration.AspNet.Core;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -20,6 +27,23 @@ namespace Firstbot
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // Use In case you add a new bot using AddBot in services.AddBot and adding middlewares in it
+
+            //services.AddBot<SimpleBot>(options =>
+            //{
+            //    options.CredentialProvider = new ConfigurationCredentialProvider(Configuration);
+
+            //    options.Middleware.Add(new SimpleMiddleware1());
+            //    options.Middleware.Add(new SimpleMiddleware2());
+            //    options.Middleware.Add(new MiddlewareLogger());
+            //    options.Middleware.Add(new Middleware_LowerCase());
+
+            //});
+
+            services.AddSingleton<IMiddleware, Middleware_LowerCase>();
+            services.AddSingleton<IMiddleware, MiddlewareLogger>();
+            services.AddSingleton<IMiddleware, SimpleMiddleware2>();
+
             services.AddControllers().AddNewtonsoftJson();
             services.AddBotRuntime(Configuration);
         }
@@ -47,6 +71,9 @@ namespace Firstbot
             app.UseWebSockets();
             app.UseRouting();
             app.UseAuthorization();
+
+            // Use In case you add a new bot using AddBot in services.AddBot and adding middlewares in it
+            //app.UseBotFramework();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
