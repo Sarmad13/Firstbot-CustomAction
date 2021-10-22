@@ -1,1 +1,20 @@
 
+
+
+# menu
+-menu
+-Show me menu in {Location = Faisalabad}
+-Menu of {Location = Lahore}
+-Do u have menu of {Location = Karachi}
+-Menu Please
+-Display Menu of {Location = Lahore}
+-Please show menu ok {Location = karachi}
+-menu detail of {Location = Islamabad}
+-{Location = karachi} menu
+@ ml Location
+# Name
+-Name
+-What is your Name
+-name please
+-please enter your name
+

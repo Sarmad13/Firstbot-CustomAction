@@ -1,0 +1,13 @@
+{
+  "Firstbot.en-us": {
+    "rootDialog": true,
+    "triggers": {
+      "menu": [
+        "Menu.en-us"
+      ],
+      "Name": [
+        "Name.en-us"
+      ]
+    }
+  }
+}

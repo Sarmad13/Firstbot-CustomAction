@@ -7,3 +7,17 @@
 
 # SendActivity_AKsyov_text()
 - him therer
+# SendActivity_hSbbIc()
+[Activity
+    Text = ${SendActivity_hSbbIc_text()}
+]
+
+# SendActivity_hSbbIc_text()
+- ${dialog.place}
+# SendActivity_OfpRi3()
+[Activity
+    Text = ${SendActivity_OfpRi3_text()}
+]
+
+# SendActivity_OfpRi3_text()
+- ${#menu.Score}

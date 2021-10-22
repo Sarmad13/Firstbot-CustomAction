@@ -17,12 +17,44 @@
       },
       "actions": [
         {
+          "$kind": "Microsoft.SetProperty",
+          "$designer": {
+            "id": "HsNAKU"
+          },
+          "property": "dialog..location",
+          "value": "=dialog.place"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "MtoSE2"
+          },
+          "activity": "${SendActivity_MtoSE2()}"
+        },
+        {
           "$kind": "Microsoft.SendActivity",
           "$designer": {
             "id": "5Z3c8k",
             "comment": ""
           },
           "activity": "${SendActivity_5Z3c8k()}"
+        },
+        {
+          "$kind": "Microsoft.HttpRequest",
+          "$designer": {
+            "id": "xwM5cg"
+          },
+          "resultProperty": "turn.results",
+          "method": "GET",
+          "url": "https://reqres.in/api/users?page=2",
+          "responseType": "json"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "UBW9T8"
+          },
+          "activity": "${SendActivity_UBW9T8()}"
         }
       ]
     }

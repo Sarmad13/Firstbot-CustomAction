@@ -12,3 +12,17 @@
  \- Chicken sandwich```
 # TemplateName()
 -TemplateValue
+# SendActivity_MtoSE2()
+[Activity
+    Text = ${SendActivity_MtoSE2_text()}
+]
+
+# SendActivity_MtoSE2_text()
+- From Menu Dialog: ${dialog.location}
+# SendActivity_UBW9T8()
+[Activity
+    Text = ${SendActivity_UBW9T8_text()}
+]
+
+# SendActivity_UBW9T8_text()
+- Result from HttpCall: ${turn.results}

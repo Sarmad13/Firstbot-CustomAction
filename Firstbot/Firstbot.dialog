@@ -17,14 +17,40 @@
       "intent": "menu",
       "actions": [
         {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "OfpRi3"
+          },
+          "activity": "${SendActivity_OfpRi3()}"
+        },
+        {
+          "$kind": "Microsoft.SetProperty",
+          "$designer": {
+            "id": "IPuwf7"
+          },
+          "property": "dialog.place",
+          "value": "=@location"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "hSbbIc"
+          },
+          "activity": "${SendActivity_hSbbIc()}"
+        },
+        {
           "$kind": "Microsoft.BeginDialog",
           "$designer": {
             "id": "ITIH1U"
           },
           "activityProcessed": true,
-          "dialog": "Menu"
+          "dialog": "Menu",
+          "options": {
+            "place": "=dialog.place"
+          }
         }
-      ]
+      ],
+      "condition": "=#menu.Score >= 0.8"
     },
     {
       "$kind": "Microsoft.OnIntent",
@@ -65,21 +91,5 @@
   ],
   "generator": "Firstbot.lg",
   "id": "Firstbot",
-  "recognizer": {
-    "$kind": "Microsoft.RegexRecognizer",
-    "intents": [
-      {
-        "intent": "Name",
-        "pattern": "Name"
-      },
-      {
-        "intent": "menu",
-        "pattern": "menu"
-      },
-      {
-        "intent": "Greeting",
-        "pattern": ""
-      }
-    ]
-  }
+  "recognizer": "Firstbot.lu.qna"
 }

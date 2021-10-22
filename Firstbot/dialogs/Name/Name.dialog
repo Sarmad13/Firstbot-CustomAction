@@ -60,8 +60,16 @@
           "$designer": {
             "id": "9zCHrs"
           },
-          "arg1": "=number1",
-          "arg2": "=number2"
+          "arg1": "=user.age",
+          "arg2": "=user.age1",
+          "resultProperty": "dialog.result"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "QLv6o6"
+          },
+          "activity": "${SendActivity_QLv6o6()}"
         },
         {
           "$kind": "Microsoft.SendActivity",

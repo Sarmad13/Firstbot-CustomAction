@@ -14,7 +14,7 @@
 ]
 
 # SendActivity_Ikatol_text()
-- The result is: : ${add(user.age, user.age1)}
+- For Testing: : ${mul(user.age, user.age1)}
 # NumberInput_Prompt_0TrrhO()
 [Activity
     Text = ${NumberInput_Prompt_0TrrhO_text()}
@@ -43,3 +43,10 @@
 
 # LogAction_Text_YCvOpt_text()
 - $number1
+# SendActivity_QLv6o6()
+[Activity
+    Text = ${SendActivity_QLv6o6_text()}
+]
+
+# SendActivity_QLv6o6_text()
+- The Result is: ${dialog.result}
