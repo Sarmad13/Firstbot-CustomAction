@@ -1,6 +1,7 @@
 {
   "$kind": "Microsoft.CrossTrainedRecognizerSet",
   "recognizers": [
-    "Firstbot.lu"
+    "Firstbot.lu",
+    "Firstbot.qna"
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "$kind": "Microsoft.MultiLanguageRecognizer",
+  "id": "QnA_Firstbot",
+  "recognizers": {
+    "en-us": "Firstbot.en-us.qna",
+    "": "Firstbot.en-us.qna"
+  }
+}

@@ -1,0 +1,1225 @@
+> !# @source.endpoint=https://testbotcomposer.cognitiveservices.azure.com/
+> !# @source.kbId=fe05b38f-f7cf-4b9c-882e-64a67c1ad3fd
+> # QnA pairs
+
+# ? What is the difference between Office 2021 (one-time purchase) and Microsoft 365 (subscription)?
+```
+Office 2021 is sold as a one-time purchase, which means you pay a single, up-front cost to get Office apps for one computer. One-time purchases are available for both PCs and Macs. However, there are no upgrade options, which means if you plan to upgrade to the next major release, you'll have to buy it at full price.
+
+Microsoft 365 is a subscription that includes the most collaborative, up-to-date features in one seamless, integrated experience. Microsoft 365 includes the robust Office desktop apps that you’re familiar with, like Word, PowerPoint, and Excel. You also get extra online storage and cloud-connected features that let you collaborate on files in real time. With a subscription, you'll always have the latest features, fixes, and security updates along with ongoing tech support at no extra cost. You can choose to pay for your subscription on a monthly or yearly basis, and the Microsoft 365 Family plan lets you share your subscription with your family for up to 6 people, and use your apps on multiple PCs, Macs, tablets, and phones.
+```
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "2"></a>
+
+# ? How do I know if my PC or Mac can run Microsoft 365?
+
+```markdown
+Microsoft 365 is compatible with PC, Mac, Android, and iOS. See [system requirements](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-and-office-resources) for compatible versions of your devices, and for other feature requirements.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "3"></a>
+
+# ? Will Microsoft 365 be identical on a PC and a Mac?
+
+```markdown
+No. Apps are tailored to work best on each operating system. The apps available for Mac users and the specific features included may be different from those available for PC users. With Microsoft 365, you can be flexible. With your account, you are not limited to exclusively Mac or exclusively PC, so you can transition across devices.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "4"></a>
+
+# ? Do I keep control of my documents with a Microsoft 365 subscription?
+
+```markdown
+Yes. Documents that you have created belong fully to you. You can choose to store them online on OneDrive or locally on your PC or Mac.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "5"></a>
+
+# ? Is Internet access required for Microsoft 365?
+
+```markdown
+Internet access is required to install and activate all the latest releases of apps and services included in all Microsoft 365 subscription plans. Note that if you are an existing subscriber, you do not need to reinstall or purchase another subscription.
+
+For Microsoft 365 plans, Internet access is also needed to manage your subscription account, for example to install apps on other PCs or to change billing options. Internet access is also required to access documents stored on OneDrive, unless you install the 
+[OneDrive desktop app.](https://go.microsoft.com/fwlink/p/?LinkID=403721)
+
+You should also connect to the Internet regularly to keep your version of Microsoft 365 up to date and to benefit from automatic upgrades. If you do not connect to the Internet at least every 31 days, your apps will go into reduced functionality mode, which means that you can view or print your documents but cannot edit the documents or create new ones. To reactivate your apps, simply reconnect to the Internet.
+
+You do not need to be connected to the Internet to use Office apps, such as Word, Excel, and PowerPoint, because the apps are fully installed on your computer.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "6"></a>
+
+# ? What is a Microsoft account and why do I need it for Microsoft 365?
+
+```markdown
+Your Microsoft account is the combination of an email address and password that you use to sign in to services like OneDrive, Xbox LIVE, and Outlook.com. If you use any of these services, you already have a Microsoft account that you can use, or you can create a new account. [Learn more about a Microsoft account.](https://go.microsoft.com/fwlink/p/?LinkID=403717)
+
+As part of signing up for a trial or purchasing **Microsoft 365**, you will be prompted to sign in with a Microsoft account. You must be signed in with this account to install and manage your Microsoft 365 subscription, or to use some subscription benefits, including OneDrive storage.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "7"></a>
+
+# ? How many people can use a Microsoft 365 subscription?
+
+```markdown
+You can share Microsoft 365 Family with 5 other people in your household, for a total of 6 users. Microsoft 365 Personal can be used by one person.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "8"></a>
+
+# ? How do I share my subscription benefits with members of my family?
+
+```markdown
+If you have an active Microsoft 365 Family subscription, you can share it with up to 5 members of your household. Each household member you share your subscription with can install Microsoft 365 on all their devices and sign in to five devices at the same time.
+
+To add someone to your subscription, visit [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=867985) and follow the on-screen instructions to add a user. Each person you add will receive an email with the steps they need to follow. Once they have accepted and completed the steps, their information, including the installs they are using, will appear on their My Account page. You can stop sharing your subscription with someone or remove a device they are using at [account.microsoft.com.](https://go.microsoft.com/fwlink/p/?linkid=867985)
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "9"></a>
+
+# ? If I’m not paying for a subscription, what do I get for free?
+
+```markdown
+Visit [this page](https://www.microsoft.com/en-us/microsoft-365/free-productivity-apps) to learn more about free apps.
+
+## About Microsoft 365 trials
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "10"></a>
+
+# ? Can I try Microsoft 365 before I buy?
+
+```markdown
+Yes. You can sign up to try Microsoft 365 Family for free for a month on the 
+[Microsoft 365 website](https://www.microsoft.com/en-us/microsoft-365/try)
+
+. (Note that a credit card is required for the free trial.) The trial gives you access to all the features of 
+[Microsoft 365 Family](https://go.microsoft.com/fwlink/p/?linkid=2014969)
+
+ and can be shared with up to 5 people in the family. It includes: 
+
+• Full Office desktop apps such as Word, PowerPoint, Excel, Outlook, Publisher and Access for Windows PCs, as well as access to additional OneNote features (
+[features vary](https://go.microsoft.com/fwlink/p/?LinkID=2046389)
+
+).
+
+• 1 TB of additional OneDrive cloud storage so you can save documents, photos and videos online and access them from nearly anywhere. 
+
+• 60 Skype minutes that you can use to call mobile phones and landlines. 
+[See the list](#coreui-heading-vj99589)
+
+.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "11"></a>
+
+# ? What steps do I need to take to sign up for the trial?
+
+```markdown
+1. Create or sign in with an existing Microsoft account. 
+[What is a Microsoft account?](#coreui-heading-700w6xm)
+
+2. Provide payment information to enable future monthly payments. International credit cards and PayPal (in some markets) are accepted.
+
+3. The payment method you provide will be automatically charged at the end of your first free month to ensure that you do not experience any interruptions with your service. You can cancel online without penalty before your trial ends, by visiting 
+[account.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkID=403706)
+
+ and turning off recurring billing in the payment and billing area.
+
+4. Once your payment method is confirmed, you'll be transferred to 
+[account.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=403706)
+
+ to install Office apps.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "12"></a>
+
+# ? How do I cancel my trial before it ends?
+
+```markdown
+If you signed up for the trial via the [Microsoft 365 website](https://www.microsoft.com/en-us/microsoft-365/try), visit the [Microsoft Account](https://go.microsoft.com/fwlink/p/?LinkId=403706) site and turn off recurring billing. With this approach, the trial will automatically expire when your month is finished, and your credit card will not be charged.
+
+If you signed up for the trial by clicking an icon on your new PC, your trial ends automatically after a month; it isn’t necessary to cancel it. When the trial ends, you’ll be prompted to choose which Microsoft 365 plan you want to purchase.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "13"></a>
+
+# ? What happens when my trial ends?
+
+```markdown
+It depends on how you signed up for the trial: 
+
+*   If you signed up via the [Microsoft 365 website](https://www.microsoft.com/en-us/microsoft-365/try), and if recurring billing is enabled on the [Microsoft Account ](https://go.microsoft.com/fwlink/p/?linkid=2118507)site, your service will continue uninterrupted and your payment method will be automatically charged at the end of the trial, and then monthly thereafter. You do not need to re-install Office apps.
+
+*   If you signed up by clicking an icon on your new PC, your trial ends automatically after a month; it isn’t necessary to cancel it. When the trial ends, you’ll be prompted to choose which Microsoft 365 plan you want to purchase.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "14"></a>
+
+# ? Can I sign up for another trial with a different subscription?
+
+```markdown
+Not immediately. For example, if you had a trial of Microsoft 365 Personal, you can’t sign up for a trial of Microsoft 365 Family. However, one year after your trial or paid subscription ends, you can sign up for a new trial.
+
+## Product keys, redemption, and activation
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "15"></a>
+
+# ? I purchased Microsoft 365. Where can I go to set up my account and install Microsoft 365?
+
+```markdown
+To set up your account and install Microsoft 365 for the first time, visit [setup.office.com](https://go.microsoft.com/fwlink/p/?linkid=831058). [Learn more about setting up your account](https://go.microsoft.com/fwlink/p/?linkid=831057). If you have already created your account, visit [account.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkID=403706). [Learn more about installing Office](https://go.microsoft.com/fwlink/p/?linkid=831059).
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "16"></a>
+
+# ? What is a Product Key and where do I find it?
+
+```markdown
+A product key is a unique 25-character alpha-numeric code used to redeem and activate your Microsoft 365 subscription or Office product. You cannot use a product key for an older Office product (or a different product) to redeem your new copy of Office or Microsoft 365 subscription.
+
+ 
+
+To find your product key, look for the 25-character alpha-numeric code on the back of the card inside your Microsoft 365 or Office product packaging. Sometimes the product key may be printed on your retail receipt. If you purchased from a PC manufacturer, your product key will be located somewhere in your PC packaging. Sample product key format: XXXXX-XXXXX-XXXXX-XXXXX-XXXXX.
+[Get information on locating your product key](https://go.microsoft.com/fwlink/p/?linkid=831060).
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "17"></a>
+
+# ? Do I need to keep my Product Key?
+
+```markdown
+After you associate your Product Key to your Microsoft account, you can sign in to [account.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkID=403706) to install and manage Microsoft 365. But it's a good idea to keep your Product Key in a secure location as proof of purchase or to help our support agents trace your product.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "18"></a>
+
+# ? Should I use my existing Microsoft account or create a new one?
+
+```markdown
+It's best to use your existing Microsoft account. If you use other Microsoft products or services (e.g. Xbox, OneDrive, Outlook.com, MSN or Bing), you may already have a Microsoft account and won’t need to create a new one. If you forgot your username or password, recover those details by returning to sign in and clicking on Can't access your account?
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "19"></a>
+
+# ? What happens if I buy or redeem multiple Microsoft 365 subscriptions?
+
+```markdown
+Your Microsoft account can have only one subscription associated with it. If you use the same Microsoft account to buy or redeem multiple Microsoft 365 subscriptions, you extend the amount of time for your subscription, up to a maximum of 5 years. Note that doing so does not increase the number of devices you can install Office apps on or increase the amount of online storage that is available with the subscription. [Learn more about adding another Microsoft 365 Family subscription plan to your account](https://go.microsoft.com/fwlink/p/?linkid=831061).
+
+## Language support for Microsoft 365
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "20"></a>
+
+# ? For which languages is Microsoft 365 available?
+
+```markdown
+Microsoft 365 plans are available in [most countries/regions.](https://www.microsoft.com/en-us/microsoft-365/choose-valid-billing-market) In countries/regions where Microsoft 365 plans are not available, you can still buy an Office 2019 suite, a one-time purchase which includes 2019 versions of the Office apps, but no additional security or storage features. When buying Microsoft 365, it’s important that you select the country/region in which you will be billed and in which you’ll use the software. Selecting a different country/region may cause problems with subscription setup and renewal.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "21"></a>
+
+# ? Can I use Microsoft 365 in languages other than the one I originally purchased?
+
+```markdown
+Yes. Microsoft offers simple and cost-effective solutions for multilingual individuals, families, and small businesses. Each time you install Office apps on an additional PC or Mac at, you can choose the language in which to install.
+
+## About OneDrive
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "22"></a>
+
+# ? What is OneDrive?
+
+```markdown
+OneDrive is an online storage service that you can use to store documents, notes, photos, music, videos, or other types of files. With OneDrive you can access your files from nearly any device and you can share them with others. [Sign up for OneDrive](https://go.microsoft.com/fwlink/p/?LinkID=403718).
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "23"></a>
+
+# ? How much OneDrive storage do I get with Microsoft 365?
+
+```markdown
+OneDrive is an online storage service that you can use to store documents, notes, photos, music, videos, or other types of files. With OneDrive you can access your files from nearly any device, and you can share them with others. 
+[Sign up for OneDrive.](https://go.microsoft.com/fwlink/p/?LinkID=403718)
+
+ The amount of additional storage that you get depends on your subscription:
+
+*   Customers with an active Microsoft 365 Personal subscription receive an additional 1 TB of OneDrive storage per subscription plus 5 GB of storage for free.
+
+*   Customers with an active Microsoft 365 Family subscription receive an additional 1 TB of OneDrive storage per user, for up to 6 users, plus 5 GB of storage for 1 user. Each additional user must have their own Microsoft account and be added to the [Microsoft Account page.](https://go.microsoft.com/fwlink/p/?linkid=831178)
+
+The additional storage is applied to the OneDrive account that is linked to the Microsoft account used to create the Microsoft 365 subscription. For Microsoft 365 Family, the storage is tied to the Microsoft accounts of the household members who have been added to the subscription.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "24"></a>
+
+# ? Which Microsoft account should I sign in with when using OneDrive?
+
+```markdown
+To access documents stored on OneDrive, sign into Microsoft 365 with the Microsoft account that you used to set up Microsoft 365. If you have [shared your Microsoft 365 subscription](https://go.microsoft.com/fwlink/p/?LinkID=403719) with other members of your household, they should sign in with their Microsoft account. [Learn more about signing into Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkID=403720). You can also sign into OneDrive directly at OneDrive.com.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "25"></a>
+
+# ? Are my documents stored in OneDrive also available offline?
+
+```markdown
+Yes. If you’re using Windows 8.1 or Windows 10, OneDrive is preinstalled. To access your documents when you’re not connected to the Internet, open File Explorer on your PC and go to the OneDrive folder. When you reconnect, OneDrive updates the online versions with changes you made offline.
+
+Visit the 
+[OneDrive for Windows 8.1](https://go.microsoft.com/fwlink/p/?LinkID=808163)
+
+ and 
+[OneDrive for Windows 10](https://go.microsoft.com/fwlink/p/?LinkID=717896)
+
+ support pages for more details.
+
+You can also download and install OneDrive on 
+[Windows 7, Windows Vista](https://go.microsoft.com/fwlink/p/?LinkID=403721)
+
+, or on your 
+[Mac](https://go.microsoft.com/fwlink/p/?LinkID=808164)
+
+. The OneDrive app creates a folder that automatically syncs between OneDrive and your computer, so you can work on your documents—even when you’re offline.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "26"></a>
+
+# ? What happens to the files I stored in OneDrive if my subscription expires?
+
+```markdown
+If you cancel your subscription or if it expires, you can still access and download all your files by signing in to OneDrive directly using the Microsoft account you used to set up Microsoft 365. You do lose the additional storage that comes with your subscription, so you must save your files elsewhere or buy more OneDrive storage if your OneDrive account exceeds the free storage quota.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "27"></a>
+
+# ? I deactivated the subscription sharing for a household member. What happens to the documents they stored in OneDrive?
+
+```markdown
+They lose the additional OneDrive storage, but they can still access and download all files. If their OneDrive account exceeds the free storage quota, they'll need to save files elsewhere or buy more OneDrive storage. 
+
+## About OneNote 2016
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "28"></a>
+
+# ? How can I get OneNote 2016?
+
+```markdown
+Starting in March 2020, OneNote 2016 will be installed by default alongside Word, PowerPoint, and Excel for Microsoft 365 subscriptions that include the client apps and Office 2019. If you require OneNote 2016 before then, see [OneNote is missing after installing Office 2019 or Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkID=2060709).
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "29"></a>
+
+# ? I’ve installed Microsoft 365, but I don’t see OneNote
+
+```markdown
+Starting in March 2020, OneNote 2016 will be installed by default alongside Word, PowerPoint, and Excel for Microsoft 365 subscriptions that include the client apps and Office 2019. For information about how to download the desktop version of OneNote 2016 see [OneNote is missing after installing Office 2019 or Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkID=2060709).
+
+## About Skype minutes
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "30"></a>
+
+# ? What are Skype minutes?
+
+```markdown
+With Skype minutes you can call friends or family on their mobile phone or landline, whether they have a Skype account or not.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "31"></a>
+
+# ? Which countries/regions are included with Skype minutes?
+
+```markdown
+You can call the following countries/regions: 
+
+• Both landlines and mobile phones: Canada, China, Guam, Hong Kong SAR, Japan, Puerto Rico, Singapore, Thailand, and the United States. 
+
+• Landlines only: Andorra, Argentina, Australia, Austria, Belgium, Brazil, Brunei, Bulgaria, Chile, Croatia, Colombia (excl. Lex), Costa Rica, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Guadeloupe, Hungary, Iceland, Indonesia (Jakarta), Ireland, Israel, Italy, Korea, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Morocco, Netherlands, New Zealand, Norway, Panama, Paraguay, Peru, Poland, Portugal, Romania, Russia, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Taiwan, Turkey, United Kingdom, and Venezuela. 
+
+Skype minutes are not included with Microsoft 365 in Algeria, Bahrain, China, Egypt, India, Korea, Kuwait, Lebanon, Libya, Morocco, Namibia, Pakistan, Qatar, Taiwan, Tunisia, and United Arab Emirates.
+
+Note that special, premium, and non-geographic numbers are not covered by Skype minutes. Additionally, it isn’t possible to place emergency calls.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "32"></a>
+
+# ? Can I use Skype minutes to call a country/region that isn’t included?
+
+```markdown
+Skype offers a variety of pay-as-you-go and subscription options to supplement Skype minutes. Visit [skype.com](https://go.microsoft.com/fwlink/p/?LinkID=403723) for more details.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "33"></a>
+
+# ? How do I activate my Skype minutes?
+
+```markdown
+You can choose to apply your Skype minutes to a new or existing Skype account. To activate your Skype minutes, visit 
+[account.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=403706)
+
+ and then follow the onscreen instructions to either create a new Skype account or to use an existing one. You will see a confirmation at 
+[account.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=403706)
+
+ when the minutes have been activated.
+
+## Download and install Microsoft 365 or Office
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "34"></a>
+
+# ? How do I install Microsoft 365 or Office?
+
+```markdown
+To install Microsoft 365, or Office as a one-time purchase, visit 
+[account.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=403706)
+
+. Sign in with the Microsoft account that you used to purchase, or have already associated, with the subscription or one-time purchase product, and then follow the onscreen instructions to install. Learn more about 
+[how to install Microsoft 365 or Office](https://go.microsoft.com/fwlink/p/?linkid=831181)
+
+.
+
+If you need to set up your account and install Microsoft 365 or Office for the first time, visit 
+[setup.office.com](https://go.microsoft.com/fwlink/p/?linkid=724060)
+
+. 
+[Learn more about where to enter your Office product key](https://go.microsoft.com/fwlink/p/?linkid=831183)
+
+.
+
+To download and install older versions of Office, visit 
+[office.com/downloadoffice](https://go.microsoft.com/fwlink/?linkid=2127487)
+
+.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "35"></a>
+
+# ? I have several Office 2021, Office 2019, Office 2016 or 2013 (one-time purchase) installations under the same Microsoft account and I need to reinstall one of them. What do I do?
+
+```markdown
+You’ll need to determine which Office product keys correspond to each PC. [Learn more](https://go.microsoft.com/fwlink/?linkid=831186).
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "36"></a>
+
+# ? How many devices can I install Office apps on if I have an Microsoft 365 Personal or Family subscription?
+
+```markdown
+Microsoft 365 Personal subscribers can install on multiple PCs/Macs, tablets, and phones, including Windows, iOS, and Android[1](#faqheaderregion2), for 1 user. Microsoft 365 Family subscribers can install on Multiple PCs/Macs, tablets, and phones, including Windows, iOS, and Android[1](#faqheaderregion2) for up to 6 users within their household. You can count hybrid Windows devices, such as the Microsoft Surface Pro, as either a PC or a tablet.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "37"></a>
+
+# ? Can I install Microsoft 365 or Office on my Mac?
+
+```markdown
+Yes. You can purchase Microsoft 365 subscriptions for both Mac and Windows. [Office Home & Business 2019](https://go.microsoft.com/fwlink/p/?linkid=2015061) and [Office Home & Student 2019](https://go.microsoft.com/fwlink/p/?linkid=2014973) are also available for Mac as a one-time purchase.
+
+With Microsoft 365 subscription plans you get the fully installed Office apps: Word, Excel, PowerPoint, Outlook, Publisher, and Access (Publisher and Access are available on PC only). The OneNote app is included in Windows 10 and is available for free on Mac, although your purchase of Microsoft 365 Apps for enterprise provides access to additional OneNote features (features vary).
+
+The Publisher and Access apps are not available for Mac. Current Office app versions for Microsoft 365 and Office 2016 are available for both Windows and Mac.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "38"></a>
+
+# ? How long does it take to download and install Microsoft 365 or Office?
+
+```markdown
+The actual download speed of Microsoft 365 or Office depends on the speed of your Internet connection; a broadband Internet connection is recommended for the best download experience.
+
+All versions of Microsoft 365 or Office for Windows PC use a streaming technology that lets you begin to use Office apps before installation is complete.
+If Microsoft 365 or Office is taking a long time to install, [learn about possible solutions](https://go.microsoft.com/fwlink/p/?linkid=831191).
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "39"></a>
+
+# ? How do I access my apps after I've installed Microsoft 365 or Office?
+
+```markdown
+Icons for Office apps are created when you install Office. You can start the apps by clicking the icons, which are installed in the following locations: 
+
+• Windows 
+
+    o Windows 7: Start menu 
+
+    o Windows 8: Start screen and Apps view (the view under the Start screen that includes all apps installed on a PC)* 
+
+    o Windows 8.1: Apps view*
+
+*If you cannot find your icons in Windows 8 or Windows 8.1, go to the Start screen and type the name of the app you want to launch (for example, Word).
+
+You can also pin an app shortcut to your Start screen or your desktop taskbar for convenient access. 
+[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=402140)
+
+.
+
+• Mac OS X 
+
+    o 10.6 (Snow Leopard): Dock 
+
+    o 10.7 (Lion): Dock and Launchpad 
+
+    o 10.8 (Mountain Lion): Dock and Launchpad 
+
+    o 10.9 (Mavericks): Dock and Launchpad 
+
+    o 10.10 (Yosemite): You can start the apps by clicking the app icons which can be found in the Launchpad and Apps folder in Finder.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "40"></a>
+
+# ? How can I change which devices have Microsoft 365 installed?
+
+```markdown
+If you have installed Microsoft 365 on the maximum number of PCs, Macs, or tablets and want to use Microsoft 365 on a different device, you can deactivate a device by visiting [account.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=403706), after which you can install Microsoft 365 on a new device. The copy of Microsoft 365 on the device you deactivated will revert to read-only mode, which means documents can be viewed but not edited. You will not lose any documents that are saved locally on the original device.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "41"></a>
+
+# ? How do I uninstall Microsoft 365 or Office?
+
+```markdown
+To uninstall Microsoft 365 or Office, first visit [account.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=403706) and follow the onscreen instructions to deactivate Microsoft 365 or Office. Deactivating Microsoft 365 or Office leaves the Office apps on your PC in read-only mode, which means that you can view documents but can't edit or save them, and you can’t create new documents. To remove Microsoft 365 or Office entirely, go to your PC's Control Panel and uninstall Microsoft 365 or Office. For Mac, iPad, and Android tablets, follow the instructions on that device to uninstall an app.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "42"></a>
+
+# ? How do I obtain a back-up copy of my Microsoft 365 or Office product?
+
+```markdown
+There are several ways to get a back-up for your Microsoft 365 subscription or Office product: 
+
+• Microsoft 365 customers can download or reinstall from 
+[account.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=403706)
+
+. 
+
+• You may order a DVD backup copy for the latest release Office products for a fee. Visit 
+[office.com/backup](https://go.microsoft.com/fwlink/?linkid=2127487)
+
+ for details. 
+
+Back-up copies cannot be shipped to the following countries/regions: Bhutan, Brazil, China, Cocos (Keeling) Islands, Cook Islands, French Southern and Antarctic Lands, Heard Island and McDonald Islands, Iraq, Jan Mayen, Kiribati, Libya, Micronesia, Myanmar, Nauru, Nepal, Niue, Palau, Pitcairn Islands, Saba, Samoa, Sint Eustatius, Timor Leste, Tokelau, Wallis and Futuna.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "43"></a>
+
+# ? What mobile apps are available for Microsoft 365 or Office?
+
+```markdown
+Get the core Office experience for free on your favorite tablets and phones. To find and download apps, visit the following pages: [Office for iPad](https://www.microsoft.com/en-us/microsoft-365/mobile/microsoft-365-mobile-apps-for-ios), [Office for iPhone](https://www.microsoft.com/en-us/microsoft-365/mobile/microsoft-365-mobile-apps-for-ios),[ Office for Android tablet](https://www.microsoft.com/en-us/microsoft-365/mobile/microsoft-365-mobile-apps-for-android), and [Office for Android phone](https://www.microsoft.com/en-us/microsoft-365/mobile/microsoft-365-mobile-apps-for-android). For Word, Excel, and PowerPoint apps, get premium features with an eligible Microsoft 365 subscription. For information about the premium features for mobile devices that are available with Microsoft 365, visit [office.com/information.](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-and-office-resources)
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "44"></a>
+
+# ? How do I make sure I always have the latest Office apps?
+
+```markdown
+Microsoft 365 customers with an active subscription always get the newest versions of the Office apps when they are available. When we release a new version of Office apps, you will be notified that you have the option to update your software to the latest version.
+
+## Managing your Microsoft 365 subscription
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "45"></a>
+
+# ? How do I manage my Microsoft 365 subscription?
+
+```markdown
+To manage your billing information, install or remove Microsoft 365 from additional PCs or Macs, and manage your installations of Microsoft 365 on other devices at any time, visit [install](https://go.microsoft.com/fwlink/p/?linkid=2116455) and [Account management.](https://go.microsoft.com/fwlink/p/?linkid=2090513)
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "46"></a>
+
+# ? When does my subscription start?
+
+```markdown
+If you purchased a recurring billing subscription, your subscription starts when you complete your purchase. Recurring billing subscriptions may be purchased from MicrosoftStore.com, the iTunes® Store, and some other retailers. If you purchased a pre-paid subscription, your subscription starts when you activate your subscription on [setup.office.com.](https://go.microsoft.com/fwlink/p/?linkid=831058) Pre-paid subscriptions may be purchased from a retailer or reseller, or a Microsoft support agent.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "47"></a>
+
+# ? Why can’t I have both a Microsoft 365 Family subscription and a Microsoft 365 Personal subscription?
+
+```markdown
+Your Microsoft account can have only one active Microsoft 365 consumer subscription. You can either convert your Microsoft 365 Family subscription to Microsoft 365 Personal, or you can wait until your current subscription expires before purchasing your Microsoft 365 Personal subscription.
+
+## Renewals, cancellations, and billing
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "48"></a>
+
+# ? What billing options do I have for my Microsoft 365 subscription?
+
+```markdown
+Recurring billing is the simplest way to ensure continued service. You can set up monthly or annual recurring billing by visiting [the Microsoft Account site.](https://go.microsoft.com/fwlink/p/?linkid=831178)
+
+If you have a monthly subscription you can save money by converting it to an annual subscription at the [Microsoft Account site.](https://go.microsoft.com/fwlink/p/?linkid=831178)
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "49"></a>
+
+# ? What happens when my subscription ends? How can I continue to work with my documents?
+
+```markdown
+As the expiration date approaches, you will receive notifications in the Office apps and via email, alerting you to the upcoming expiration. If you choose to let your subscription expire, the Office apps enter read-only mode, which means that you can view or print documents, but you can’t create new documents or edit existing documents.
+
+In read-only mode, you can still access and download your files for up to three months by signing into OneDrive directly using the Microsoft account you used to set up Microsoft 365. However, the additional storage that comes with your subscription is lost, so you must save your files elsewhere or buy more OneDrive storage if your OneDrive account exceeds the free storage quota of 5 GB.
+
+Note: If you need to create or edit documents, you can use online versions of Word, Excel, PowerPoint, and OneNote for free at [Office.com](https://go.microsoft.com/fwlink/p/?linkid=2093205). If you're using a Windows 10 device, you may already have the free Office Mobile apps installed. To learn more, see [Office Mobile apps for Windows 10: Getting started.](https://go.microsoft.com/fwlink/p/?linkid=2115970)
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "50"></a>
+
+# ? I stopped sharing the subscription with a family member. What happens to the documents they stored in OneDrive?
+
+```markdown
+They can still access and download their files by signing into OneDrive directly using their Microsoft account. If their OneDrive account exceeds the free storage quota of 5 GB, they'll need to save files elsewhere or buy more OneDrive storage.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "51"></a>
+
+# ? Will I be notified before I’m charged?
+
+```markdown
+You will be notified before you’re charged to continue your subscription for another year if you have an annual subscription. If you are signed up for a monthly subscription, your payment will be debited each month and you won’t be notified in advance. You can change your payment method or cancel your subscription to stop future charges at any time by visiting [your account](https://go.microsoft.com/fwlink/p/?linkid=831178) and signing in with the Microsoft account that you used to buy Microsoft 365.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "52"></a>
+
+# ? How do I continue my Microsoft 365 subscription?
+
+```markdown
+You have a few options to continue your subscription. Regardless of the option you choose, be sure to use the same Microsoft account that you used when setting up your subscription.
+
+If you have a recurring billing subscription, it will continue until cancelled. Your billing settings are shown on the [Microsoft Account site](https://go.microsoft.com/fwlink/p/?linkid=831178) after you sign in with the Microsoft account that you used to buy Microsoft 365.
+
+If recurring billing is not enabled, visit [microsoft365.com/renew](https://www.microsoft365.com/renew) to purchase a Microsoft 365 recurring billing subscription. The additional time will be automatically added to the remaining time on your existing subscription.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "53"></a>
+
+# ? Will I keep my remaining subscription time if I pay early?
+
+```markdown
+Yes. When you pay early to the same Microsoft 365 plan that you already have, the additional time is added to your existing subscription. For example, if you have two months left on your current subscription to Microsoft 365 Family and you pay for a one-year subscription (12 months), your subscription will run for 14 more months.
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "54"></a>
+
+# ? How do I cancel my Microsoft 365 recurring billing subscription?
+
+```markdown
+If you purchased a recurring billing subscription from Microsoft via MicrosoftStore.com or microsoft365.com, you have two options for cancelling:
+
+*   You can cancel online by visiting the [Microsoft Account site](https://go.microsoft.com/fwlink/p/?linkid=831178), signing in with the Microsoft account that you used to buy your subscription, and then turning off recurring billing. With this approach, your subscription will automatically expire when your remaining subscription time is up.
+
+*   To cancel immediately, contact Microsoft support and request an immediate cancellation.
+
+            o If you purchased a recurring billing subscription from another retailer, you may have to cancel your subscription with that retailer. You can confirm this by visiting the [Microsoft Account site.](https://go.microsoft.com/fwlink/p/?linkid=831178)
+
+## Support and resources
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "55"></a>
+
+# ? Where can I get technical support?
+
+```markdown
+Visit [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkID=403726) for help on technical issues, including:
+
+• Order status
+
+• Billing
+
+• Download
+
+• Product key
+
+• Install/uninstall
+
+• Product activation
+
+• Product use
+```
+
+> !# @qna.pair.source = https://www.microsoft.com/en-us/microsoft-365/microsoft-365-for-home-and-school-faq
+
+<a id = "56"></a>
+
+# ? Are there other support options?
+
+```markdown
+For help and how-to content, visit [office.com/support](https://go.microsoft.com/fwlink/p/?LinkID=506714). For free video-based training,visit [office.com/training](https://go.microsoft.com/fwlink/p/?LinkID=506713).
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "57"></a>
+
+# ? Where is Azure support available?
+
+```markdown
+Billing and subscription management support is included for all Azure customers in markets where Azure is offered. Technical support is available to customers who purchased a support plan. Some services may not be covered in all regions immediately after general availability.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "58"></a>
+
+# ? How does Microsoft define support incident severities?
+
+```markdown
+The initial response time varies depending on the support plan and the business impact of the request (also known as severity). See the [severity level definitions](https://azure.microsoft.com/en-us/support/plans/response/).
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "59"></a>
+
+# ? In which languages does Microsoft provide support?
+
+```markdown
+Microsoft provides support in nine languages: English, Spanish, French, German, Italian, Portuguese, Traditional Chinese, Korean, and Japanese. Support is available 24 hours a day, seven days a week, in English for all severities and in Japanese for severity A only.
+
+For all other supported languages, support is available during local business hours. Support outside those hours is provided in English, with translation services included if needed. Alternatively, you may wait until the next business day to get support in your language.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "60"></a>
+
+# ? What are the business hours for support?
+
+```markdown
+In North America, business hours for support are 6:00 AM to 6:00 PM Pacific Time Monday through Friday, excluding holidays. Business hours and holidays vary by country/region, but business hours for support are typically 9:00 AM to 5:00 PM local time Monday through Friday, excluding holidays.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "61"></a>
+
+# ? How can I get technical support?
+
+```markdown
+Basic self-help resources are included for all Azure customers at no additional cost. For one-on-one technical support, you need a paid support plan. [Compare Azure support plans](https://azure.microsoft.com/en-us/support/plans/).
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "62"></a>
+
+# ? How can I get support if I don't have a support plan?
+
+```markdown
+Get answers to your technical questions in [Azure on Q&A](https://docs.microsoft.com/en-us/answers/products/azure?product=all), a community channel where you can exchange ideas with community experts, Microsoft engineers, and other customers. The robust search tool returns answers from a variety of sources, making it a valuable self-help resource.
+
+If you're a member of the Microsoft Partner Network, Microsoft Developer Network (MSDN), or Microsoft for Startups, you may be eligible for limited Azure support even if you don't have a paid support plan. Refer to your service terms and conditions to see your support options and benefits.
+
+Your Azure subscription includes access to subscription management support (such as billing, quota adjustments, and account transfers) at no additional cost via the [Azure portal](https://portal.azure.com/). It also includes access to the [Azure status dashboard](https://status.azure.com/), the [Azure Community Support](https://azure.microsoft.com/en-us/support/community/) forum, and [Azure on Q&A](https://docs.microsoft.com/en-us/answers/products/azure?product=all).
+Load more FAQs
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "63"></a>
+
+# ? What is a preview service or feature?
+
+```markdown
+Microsoft may provide access to Azure preview, beta, or other pre-release features, services, software, or regions for feedback and evaluation purposes before they're generally available. Previews are identified as such in the Azure portal and listed in [Azure updates](https://azure.microsoft.com/en-us/services/preview/). There are three kinds of previews in Azure, differentiated by service availability and program access.
+
+*   **Public previews** are available to Azure subscribers through the [Azure portal](https://portal.azure.com/). They're intended to give you a chance to view and test upcoming services and features.
+
+*   **Private previews** are provided to a subset of customers who are in direct contact with Azure Engineering. They're focused on direct and constant feedback during the development phase of a service.
+
+*   **Limited previews** are offered to a fixed and limited number of customers.
+
+Access to Azure preview services and features is subject to reduced or different service terms as set forth in your service agreement and the preview supplemental terms. Previews are provided as-is, with all faults and as available, and are excluded from the service-level agreements (SLAs) or any limited warranties Microsoft provides for Azure services in general availability. They're made available on the condition that you agree to the terms of use, which supplement your Azure agreement.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "64"></a>
+
+# ? Do Azure support plans cover preview services and features?
+
+```markdown
+Azure support plans cover most services and features in public preview, but some exceptions apply. Learn more about the [services and features](https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/) covered. Technical support is limited to break-fix scenarios and available in English, with around-the-clock support available for severities A and B (based on your support plan).
+
+Azure support plans don't cover services or features in private or limited preview. For help with these services, go to [Azure Community Support](https://azure.microsoft.com/en-us/support/community/).
+
+## Using Azure support
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "65"></a>
+
+# ? How do I contact Azure support?
+
+```markdown
+Go to the [Azure portal](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) and create a support request. Subscription management and billing support is included with your Azure subscription, and technical support is provided through an [Azure support plan](https://azure.microsoft.com/en-us/support/plans/). For step-by-step guidance, see how to [create an Azure support request](https://docs.microsoft.com/en-us/azure/azure-portal/supportability/how-to-create-azure-support-request).
+
+We recommend that you submit support requests online to help ensure that you get the most effective and efficient technical expertise. Because of the detailed nature of the requests, providing relevant information is easier to do online than by phone. The simple, intuitive process also eliminates unproductive hold time, as problems are routed more quickly to the most qualified engineer.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "66"></a>
+
+# ? Is there a phone number for Azure support?
+
+```markdown
+Contacting support is much faster via the [Azure portal](https://portal.azure.com/) than by phone, ensuring that you get to the right engineer with the area of expertise you need. If you can't access the Azure portal, call the [customer service](https://support.microsoft.com/help/4051701/global-customer-service-phone-numbers) number for your country/region.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "67"></a>
+
+# ? How do I create a support request?
+
+```markdown
+To create a support request, go to [Help + support](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade/) in the Azure portal. For detailed information, see how to [create an Azure support request](https://docs.microsoft.com/en-us/azure/azure-portal/supportability/how-to-create-azure-support-request).
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "68"></a>
+
+# ? How do I submit a support request if I can't sign in to the Azure portal?
+
+```markdown
+Read how to [troubleshoot Azure subscription sign-in issues](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/troubleshoot-sign-in-issue). If you can't access the Azure portal, call the [customer service](https://support.microsoft.com/help/4051701/global-customer-service-phone-numbers) number for your country/region.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "69"></a>
+
+# ? How do I get support if I don't yet have an Azure subscription and I get an error message while creating a support request?
+
+```markdown
+You can create a subscription management support request in the [Azure portal](https://portal.azure.com/) even if your subscription has not yet been created.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "70"></a>
+
+# ? Who can create a support request?
+
+```markdown
+The [account administrator, service administrator, or co-administrator](https://docs.microsoft.com/en-us/azure/azure-portal/supportability/how-to-create-azure-support-request) on the subscription can create a support request. Additionally, anyone with write permissions (such as an [owner or contributor](https://azure.microsoft.com/en-us/updates/role-based-access-control-in-azure-preview-portal/)) or with the built-in support request contributor role can create and manage support requests related to that subscription.Load more FAQs
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "71"></a>
+
+# ? How do I authorize another person to create support requests for a particular Azure subscription?
+
+```markdown
+You must be an administrator or owner of the subscription to change access. To do so, assign the support request contributor role to those who want to create and manage support requests for that subscription. [Learn more](https://docs.microsoft.com/en-us/azure/azure-portal/supportability/how-to-create-azure-support-request#azure-role-based-access-control) about role assignments.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "72"></a>
+
+# ? I'm developing applications on behalf of or assisting my client that has an Azure subscription, but I don't have one. How do I get support?
+
+```markdown
+You can get support from Azure in two ways:
+
+*   As the account administrator of your client's subscription, you can purchase an Azure support plan for that account, as any subscription you own under the same account is covered by the same support plan. You can also use your partner support plan benefits to create a support request without having to purchase a dedicated Azure support plan.
+
+*   Get support using your client's account. You (the partner) must have administrator or owner privileges to the client's subscription, which must have a support plan covering it. You can also use your partner support plan benefits to create a support request without having to purchase a dedicated Azure support plan.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "73"></a>
+
+# ? How quickly can I expect to hear back from someone after submitting my support request?
+
+```markdown
+Initial response time is the period from when you submit your support request to when a Microsoft Support Engineer contacts you and starts working on your support request. The initial response time varies with both the support plan and the business impact of the request (also known as severity).
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "74"></a>
+
+# ? How quickly will you resolve my support request?
+
+```markdown
+The time it takes to troubleshoot and resolve support requests varies depending on the problem. Microsoft is committed to helping you resolve your problem as soon as possible. Sometimes, that means focusing on reducing and mitigating any negative impact to your operation before moving to a full solution.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "75"></a>
+
+# ? I'm running external software on Azure or a custom application built using open-source software. Does my plan support it?
+
+```markdown
+Microsoft offers the ability to run non-Microsoft technologies, including Linux, Oracle, SAP, and IBM, on Azure. For all scenarios that are eligible for support through an Azure support plan, Microsoft will help you isolate the problem between the application and Azure.
+
+Microsoft will provide technical support if the problem is determined to be caused by an Azure service or platform, and will provide commercially reasonable support in all other scenarios. If your problem isn't resolved, we may refer you to other support channels available for external software.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "76"></a>
+
+# ? How do I get support during an outage or service interruption event?
+
+```markdown
+First, if you haven't already, go to [Azure Service Health](https://azure.microsoft.com/en-us/features/service-health/)—a personalized dashboard that provides alerts and guidance on Azure service issues—to [configure alerts](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-activity-log-alerts-on-service-notifications?toc=/azure/service-health/toc.json) so that the right people are notified about events that affect your resources. If Azure Service Health shows no active or recent service issues, [create a support request](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview).
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "77"></a>
+
+# ? Which support plan do I need to request a root-cause analysis?
+
+```markdown
+If you have an open Azure technical support request and need a root-cause analysis, you may request one with any paid Azure support plan.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "78"></a>
+
+# ? What are break-fix issues?
+
+```markdown
+Break-fix issues are technical problems you may experience while using Azure services. Break-fix refers to the work involved in supporting a technology when it fails during typical usage and must be restored to working order.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "79"></a>
+
+# ? What is advisory support?
+
+```markdown
+Advisory support is intended to help with general how-to questions. It doesn’t address billing or break-fix questions.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "80"></a>
+
+# ? What is covered under Professional Direct advisory support?
+
+```markdown
+Professional Direct delivery managers provide limited advisory support based on publicly available Azure documentation and information from Azure engineers and product experts. Guidance may include:
+
+*   Planning for deployments and migrations
+
+*   Planning for hybrid cloud solutions
+
+*   Boosting performance
+
+*   Improving reliability and recoverability
+
+*   Enhancing security
+
+Professional Direct delivery managers don't provide detailed assistance specific to individual customers, such as design, architecture, or code reviews; detailed instructions for application or configuration tuning (for example, performance tuning); or the verification of specifications. They also don't provide onsite support or engage in implementation activities such as coding or configuration for customer development or deployment on Azure.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "81"></a>
+
+# ? What are some examples of scenarios covered by Professional Direct advisory support?
+
+```markdown
+*   How to update extensions in Linux through the Azure CLI
+
+*   Which RBAC permissions configured on Azure are needed for a specific product
+
+*   Whether Azure provides a Windows update/Red Hat update infrastructure service
+
+*   What the required parameters are for a specific PowerShell command
+
+*   If a specific CLI command has an equivalent PowerShell command
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "82"></a>
+
+# ? What are some examples of scenarios not covered by Professional Direct advisory support?
+
+```markdown
+*   Code reviews
+
+*   Custom code samples, regardless of coding language or scripting type (other than those in publicly available documentation)
+
+*   Detailed architectural guidance
+
+*   Questions about the Red Hat Enterprise Linux OS and other break-fix issues supporting Linux OS internal settings and configurations, such as Red Hat update infrastructure settings in the OS, how to set permissions within the OS, Windows OS, Windows configuration, licensing, or troubleshooting
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "83"></a>
+
+# ? Can I use Professional Direct advisory support for problems with my on-premises PC or server?
+
+```markdown
+No, the support plan doesn't cover on-premises PC or server problems.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "84"></a>
+
+# ? Can I use Professional Direct advisory support to get help migrating my subscriptions to the cloud solution provider (CSP) program?
+
+```markdown
+No, CSP migration isn’t included in Professional Direct advisory support. 
+
+See the [Azure in CSP offer](https://azure.microsoft.com/en-us/offers/ms-azr-0145p/) for more information.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "85"></a>
+
+# ? What should I do if the self-help documentation is missing information, is inaccurate, or needs clarification?
+
+```markdown
+Submit your feedback for the product or page using the applicable link at the bottom of the documentation page.
+
+## Purchasing and billing
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "86"></a>
+
+# ? How do I purchase an Azure support plan?
+
+```markdown
+You may purchase a support plan online through the [Azure website](https://azure.microsoft.com/en-us/support/options/) or [Azure portal](https://portal.azure.com/?quickstart=true&CAF=true#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview). A support plan is also available with a Microsoft Customer Agreement. If you have an Enterprise Agreement and you’d like to purchase a Professional Direct support plan, contact your Microsoft representative or partner.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "87"></a>
+
+# ? What does the monthly cost over?
+
+```markdown
+The monthly support plan cost covers one billing account, regardless of how many subscriptions or users are on the account. All subscriptions under a billing account share the same support plan, and all users with admin or owner access to any of the subscriptions under the account with a support plan are entitled to support for those subscriptions. Go to the [Azure portal](https://portal.azure.com/) to see the list of subscriptions in your account.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "88"></a>
+
+# ? How do I upgrade to a higher-tier support plan?
+
+```markdown
+If you purchased your support plan through the Azure website or Azure portal, or if you have one under a Microsoft Customer Agreement, you may cancel your existing plan and then purchase a higher-tier plan in the [Azure portal](https://portal.azure.com/?quickstart=true&CAF=true#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview).
+
+If you have an Enterprise Agreement, contact your Microsoft representative or partner.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "89"></a>
+
+# ? How do I change or cancel my support plan?
+
+```markdown
+If you purchased your support plan through the Azure website or Azure portal, or if you have one under a Microsoft Customer Agreement, you can make changes to or [cancel your support plan](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/cancel-azure-subscription#cancel-a-support-plan) in the Azure portal.
+
+If you have questions about changing or canceling your support plan, [create a support request](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade). For **Issue type**, select **Subscription management**. Select the applicable support plan, and then select **Request for cancellation of a subscription**. Because support plans are billed monthly, you won't get a prorated refund if you cancel before the end of the month.
+
+If you purchased your support plan through an Enterprise Agreement, contact your Microsoft representative or partner.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "90"></a>
+
+# ? When will I be billed for my support plan?
+
+```markdown
+You’ll be billed monthly. See the [Azure Cost Management and Billing documentation](https://docs.microsoft.com/en-us/azure/billing/) for more information.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "91"></a>
+
+# ? When will my support plan be renewed?
+
+```markdown
+If you purchased your support plan through the Azure portal, or if you have one under a Microsoft Customer Agreement, we'll automatically renew it using the payment method on file.
+
+If you purchased your support plan through a Microsoft representative or partner, they'll notify you when it's time to renew.
+
+## Enterprise Agreement support
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "92"></a>
+
+# ? How do I purchase an Azure support plan under an Enterprise Agreement?
+
+```markdown
+Enterprise Agreement customers can purchase Azure Standard or Professional Direct technical support through their reseller or Microsoft sales representative. Developer support isn't available through an Enterprise Agreement. For customers interested in Unified support, contact a Microsoft sales representative.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "93"></a>
+
+# ? How do I upgrade to a higher-tier Azure support plan?
+
+```markdown
+Contact your reseller to purchase an upgrade from Standard to Professional Direct if it's available in your region.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "94"></a>
+
+# ? I have multiple enrollments. Do I need a support plan for each one?
+
+```markdown
+Yes, each Enterprise Agreement enrollment requires a separate support plan. If you have one Azure support plan and multiple Enterprise Agreement enrollments, support is covered only under the enrollment the support plan is tied to. If you have multiple Azure subscriptions under a single Enterprise Agreement enrollment with a support plan, then all of those subscriptions have access to technical support.
+```
+
+> !# @qna.pair.source = https://azure.microsoft.com/en-us/support/faq/
+
+<a id = "95"></a>
+
+# ? I've purchased support through my Enterprise Agreement, but access to technical support isn't enabled yet. How do I get technical support?
+
+```markdown
+If you have a pending order for a support plan through your Enterprise Agreement, submit a subscription management support request in the [Azure portal](https://portal.azure.com/) to temporarily enable technical support. Indicate the plan that you ordered (Standard or Professional Direct) and provide a description of the issue, and a support engineer will contact you.
+```
+
+
